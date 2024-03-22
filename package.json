@@ -1,7 +1,7 @@
 {
-    "name": "Zuri",
+    "name": "CaoChiThanhDeveloper",
     "version": "2.5.0",
-    "description": "Mirai Project do Minh Đồng điều hành",
+    "description": "Zyo Project do Cao Chí Thành quản lí.",
     "main": "main.js",
     "scripts": {
         "start": "node index",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dongdev06/miraiv2.git"
+        "url": "git+https://github.com/ViegoCKPhanHoang/miraiv2.git"
     },
-    "author": "Dongdev",
+    "author": "CaoChiThanh",
     "license": "GPL-3.0",
     "dependencies": {
         "@distube/ytdl-core": "^4.13.1",
@@ -38,8 +38,8 @@
         "eval": "^0.1.8",
         "express": "^4.18.2",
         "extract-zip": "^2.0.1",
-        "fca-disme": "git+https://github.com/dongdev06/fca-disme.git",
-        "fca-dongdev2006": "git+https://github.com/MDong-06/Fca-Donqdz2006.git",
+        "fca-disme": "git+https://github.com/ViegoCKPhanHoang/fca-disme.git",
+        "fca-dongdev2006": "git+https://github.com/ViegoCKPhanHoang/CaoChiThanhDev.git",
         "figlet": "^1.6.0",
         "fs": "0.0.1-security",
         "fs-extra": "^11.1.1",
@@ -75,7 +75,7 @@
         "sqlite3": "^5.1.6",
         "string-similarity": "^4.0.4",
         "tinyurl": "^1.1.7",
-        "tools-fb": "git+https://github.com/dongdev06/tools-fb.git",
+        "tools-fb": "git+https://github.com/ViegoCKPhanHoang/tools-fb.git",
         "totp-generator": "0.0.14",
         "uniqid": "^5.4.0",
         "websocket-stream": "^5.5.0",
